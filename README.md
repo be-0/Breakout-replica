@@ -2,4 +2,4 @@ Breakout is a classic arcade game developed by Atari and released in 1976. The g
 
 The objective is to clear all the bricks by bouncing the ball off the paddle and into them. As bricks are destroyed, the ball continues to rebound at increasingly challenging angles and speeds. If the player fails to catch the ball with the paddle and it falls off the screen, they lose a life. The game ends either when all the bricks are cleared or the player loses all their lives.
 
-Breakout was innovative for its time, particularly in its focus on single-player gameplay and its use of simple, intuitive controls. Though the original version featured black-and-white graphics with colored overlays to simulate color, its influence on later block-breaking games—such as Arkanoid—is significant, and it remains a foundational title in video game history.
+In this replica, purple bricks are unbreakable moving obstacles, while green bricks turn red after one hit on the sides and disappear after two hits on the sides or one hit on the corner. When the ball hits the paddle, it goes in a random direction. 
